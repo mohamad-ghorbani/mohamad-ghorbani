@@ -2,12 +2,11 @@
 
 A passionate frontend developer from Iran
 
-🔭 I’m currently working on digital marketing
-rastakweb.ir
+🔭 I’m currently working on digital marketing rastakweb.ir
 
-👯 I’m looking to collaborate on
-Viewcall
+👯 I’m looking to collaborate on Viewcall
 
+🌱 I’m currently learning Express.js
 <br/>
 <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' />
 <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' />
