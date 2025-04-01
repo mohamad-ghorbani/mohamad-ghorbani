@@ -24,7 +24,9 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 - Integrating AI models to web applications
 
-![myGitHub](https://github-readme-stats.vercel.app/api?username=mohamad-ghorbani&show_icons=true&theme=radical)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=mohamad-ghorbani&show_icons=true&theme=radical)
+![Skill Icons](https://skillicons.dev/icons?i=js,react,nodejs,figma)
+
 
 ### 📫 How to reach me
 
